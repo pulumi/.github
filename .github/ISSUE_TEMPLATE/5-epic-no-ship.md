@@ -9,14 +9,14 @@ assignees: ''
 
 <!-- Start with a one- to three-sentence summary that should be understandable by any Pulumian, even those without any context on the work. -->
 
-### Work items
+## Work items
 <!-- List any task that is required to complete this epic. -->
 
 **Cost in engineer-weeks:** TODO
 
 - [ ] <!-- add issues as links; you can use full links or GitHub short-hand e.g. pulumi/pulumi#0000 or #0000 -->
 
-### Objective and Key Results
+## Objective and Key Results
 <!-- List the Objective and Key Result(s) to which this epic contributes -->
 
 - **Objective:** 

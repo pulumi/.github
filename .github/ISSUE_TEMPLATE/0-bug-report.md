@@ -8,13 +8,13 @@ assignees: ''
 
 <!-- Please provide a general summary of the issue. -->
 
-### Expected behavior
+## Expected behavior
 <!-- Please tell us what should happen -->
 
-### Current behavior
+## Current behavior
 <!-- Please tell us what happens instead of the expected behavior -->
 
-### Steps to reproduce
+## Steps to reproduce
 <!-- Provide a link to a live example, or an unambiguous set of steps to reproduce this bug. Include code to reproduce, if relevant. -->
 
 1.
@@ -22,9 +22,9 @@ assignees: ''
 3.
 4.
 
-### Context (Environment)
+## Context (Environment)
 <!-- How has this issue affected you? What are you trying to accomplish? Providing context helps us come up with a solution that is most useful in the real world -->
 
-### Affected feature
+## Affected feature
 
 <!-- If you know that your bug is happening in a specific feature, please list it here. And, if you see a matching label with the `area/` prefix, please feel free to apply it. -->

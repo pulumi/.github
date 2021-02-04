@@ -9,12 +9,12 @@ assignees: ''
 
 <!-- Start with a one- to three-sentence summary that should be understandable by any Pulumian or community member, even those without any context on the work. -->
 
-### Work items
+## Work items
 <!-- List any task that is required to complete this epic. -->
 
 **Cost in engineer-weeks:** TODO
 
-#### Design and specification 📔
+### Design and specification 📔
 
 - [ ] PR/FAQ <!-- [Link](add-link-and-uncomment) -->
 - [ ] Spec <!-- [Link](add-link-and-uncomment) -->
@@ -24,12 +24,12 @@ assignees: ''
 - [ ] Quality plan <!-- [Link](add-link-and-uncomment) -->
 - [ ] Identify preview customers and note them in launch readiness :point_down:
 
-#### Engineering ⚙️
+### Engineering ⚙️
 
 - [ ] <!-- add issues as links; you can use full links or GitHub short-hand e.g. pulumi/pulumi#0000 or #0000 -->
 - [ ] Epic: <!-- note child epics with an "Epic: " prefix -->
 
-#### Launch readiness 🎁
+### Launch readiness 🎁
 <!-- Remove any items that aren't relevant to this release then tag owners -->
 
 **Release coordinator:** @infin8x
@@ -48,17 +48,17 @@ assignees: ''
 - [ ] Blog post <!-- [Link](add-link-and-uncomment) -->
 - [ ] Ship it 🚀
 
-#### Clean-up
+### Clean-up
 
 - [ ] Remove any feature flags
 
-### Objective and Key Results
+## Objective and Key Results
 <!-- List the Objective and Key Result(s) to which this epic contributes -->
 
 - **Objective:** 
   - **Key result:** 
 
-### References
+## References
 <!-- Link to any important documents, spreadsheets, or other references that help explain or define this epic -->
 
 <!--- [Document](add-link-and-uncomment) -->
