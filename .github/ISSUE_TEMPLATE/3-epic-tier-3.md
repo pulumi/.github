@@ -24,10 +24,13 @@ assignees: ''
 - [ ] Interested Parties <!-- [Link](add-link-and-uncomment) -->
 - [ ] Docs plan <!-- [Link](add-link-and-uncomment) -->
 - [ ] Quality plan <!-- [Link](add-link-and-uncomment) -->
+- [ ] Identify measures of success and note them in engineering :point_down:
 
 ### Engineering ⚙️
 
 - [ ] <!-- add issues as links; you can use full links or GitHub short-hand e.g. pulumi/pulumi#0000 or #0000 -->
+- [ ] Implement measures of success
+  - [ ] <!-- add measure -->
 
 ### Launch readiness 🎁
 <!-- Remove any items that aren't relevant to this release then tag owners -->
