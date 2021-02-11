@@ -1,6 +1,6 @@
 ---
-name: Enhancement request
-about: A request for an update to an existing feature
+name: Feature request
+about: A request for a new feature or an update to an existing feature
 labels: kind/enhancement
 assignees: ''
 

@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: A request for an update to an existing feature
+about: Report something that's not working correctly
 labels: kind/bug
 assignees: ''
 
