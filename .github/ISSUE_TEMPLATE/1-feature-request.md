@@ -8,6 +8,6 @@ assignees: ''
 
 <!-- Enhancement requests are most helpful when they describe the problem you're having as well as articulating the potential solution you'd like to see built. -->
 
-## Affected feature
+## Affected area
 
-<!-- Which feature would you like enhanced to solve the problem you described? If you see a matching label with the `area/` prefix, please feel free to apply it. -->
+<!-- If you know the specific area where this feature request would go (e.g. Automation API, the Pulumi Service, the Terraform bridge, etc.), feel free to put that area here.  -->
