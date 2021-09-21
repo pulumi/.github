@@ -9,8 +9,8 @@ assignees: ''
 ## Hello!
 <!-- Please leave this section as-is, it's designed to help others in the community know how to interact with our GitHub issues. -->
 
-- Please feel free to vote on this issue by adding a 👍 reaction; this helps the Pulumi team prioritize this request
-- If you're interested in contributing a fix for this issue, please leave a comment (and a link to your pull request, if you've opened one already)
+- Vote on this issue by adding a 👍 reaction
+- To implement this feature, comment to let us know (we'll work with you on design, scheduling, etc.)
 
 ## Issue details
 
