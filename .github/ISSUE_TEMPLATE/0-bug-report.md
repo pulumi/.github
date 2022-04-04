@@ -16,6 +16,10 @@ assignees: ''
 
 <!-- Please provide a general summary of the issue, including what you're trying to accomplish. -->
 
+### Versions used
+
+<!-- Please provide the version of Pulumi and any packages you're using. -->
+
 ### Steps to reproduce
 <!-- Provide a link to a live example or an unambiguous set of steps to reproduce this bug. Tell us what you expected to happen, and what happened instead. Please include code to reproduce, if relevant. -->
 
