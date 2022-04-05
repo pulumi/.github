@@ -40,7 +40,7 @@ body:
     id: versions
     attributes:
       label: Versions used
-      description: Please provide the version of Pulumi and all releavant packages used.
+      description: Please provide the version of Pulumi and all relevant packages used.
     validations:
       required: false
   - type: textarea
