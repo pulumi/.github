@@ -18,9 +18,7 @@ body:
     id: reproducible
     attributes:
       label: Steps to reproduce
-      description: |
-      Provide a link to a live example or an unambiguous set of steps to reproduce this bug.  
-      Please include any relevant code used.
+      description: Provide a link to a live example or an unambiguous set of steps to reproduce this bug. Please include any relevant code used.
     validations:
       required: true
   - type: textarea
@@ -41,7 +39,7 @@ body:
     id: versions
     attributes:
       label: Versions used
-      description: Please provide the version of Pulumi and all releavant packages used
+      description: Please provide the version of Pulumi and all releavant packages used.
     validations:
       required: false
   - type: textarea
