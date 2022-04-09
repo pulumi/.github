@@ -10,7 +10,7 @@ body:
     id: what-happened
     attributes:
       label: What happened?
-      description: Please provide a general description of the issue, including what you're trying to accomplish.
+      description: Provide a general description of the issue, including what you're trying to accomplish.
     validations:
       required: true
   - type: textarea
@@ -18,8 +18,8 @@ body:
     attributes:
       label: Steps to reproduce
       description: |
-        Provide a link to a live example or an unambiguous set of steps to reproduce this bug.  
-        Please include any relevant code used.
+        Provide a link to a live example or clear set of steps to reproduce this bug.  
+        Include any relevant code used.
     validations:
       required: true
   - type: textarea
@@ -40,7 +40,7 @@ body:
     id: versions
     attributes:
       label: Versions used
-      description: Please provide the output of `pulumi about` from the root of your project.
+      description: Provide the output of `pulumi about` from the root of your project.
     validations:
       required: false
   - type: textarea
