@@ -39,7 +39,7 @@ body:
   - type: textarea
     id: versions
     attributes:
-      label: Versions used
+      label: Output of `pulumi about`
       description: Provide the output of `pulumi about` from the root of your project.
     validations:
       required: false
