@@ -1,6 +1,6 @@
 Welcome to Pulumi open source! :purple_heart: :cloud:
 
-Our mission is to empower everyone to ship infrastructure faster.
+Our mission is to empower everyone to ship infrastructure faster. 🚀 
 
 We are glad that you are here! We love and appreciate the Pulumi community.
 We use [Pulumi Slack](https://slack.pulumi.com/)
