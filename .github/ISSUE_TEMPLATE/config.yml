@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Docs
+    url: https://www.pulumi.com/docs/
+    about: If you need help, you can start checking out our documentation
+  - name: Pulumi Provider Registry
+    url: https://www.pulumi.com/registry
+    about: The official Pulumi registry
+  - name: Questions
+    url: https://slack.pulumi.com/
+    about: Ask questions and discuss with other community members
