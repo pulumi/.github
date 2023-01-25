@@ -14,15 +14,6 @@ body:
     validations:
       required: true
   - type: textarea
-    id: reproducible
-    attributes:
-      label: Steps to reproduce
-      description: |
-        Provide a link to a live example or clear set of steps to reproduce this bug.  
-        Include any relevant code used.
-    validations:
-      required: true
-  - type: textarea
     id: expected
     attributes:
       label: Expected Behavior
@@ -30,10 +21,12 @@ body:
     validations:
       required: true
   - type: textarea
-    id: actual
+    id: reproducible
     attributes:
-      label: Actual Behavior
-      description: What happened instead?
+      label: Steps to reproduce
+      description: |
+        Provide a link to a live example or a clear set of steps to reproduce this bug.  
+        Include any relevant code used.
     validations:
       required: true
   - type: textarea
@@ -42,7 +35,7 @@ body:
       label: Output of `pulumi about`
       description: Provide the output of `pulumi about` from the root of your project.
     validations:
-      required: false
+      required: true
   - type: textarea
     id: ctx
     attributes:
