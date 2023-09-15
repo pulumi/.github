@@ -5,35 +5,27 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report! Please fill the form below.  
+        Thanks for taking the time to fill out this bug report! You can also ask questions on our [Community Slack](https://slack.pulumi.com/).
   - type: textarea
     id: what-happened
     attributes:
       label: What happened?
-      description: Provide a general description of the issue, including what you're trying to accomplish.
-    validations:
-      required: true
-  - type: textarea
-    id: expected
-    attributes:
-      label: Expected Behavior
-      description: What did you expect to happen?
+      description: What were you trying to accomplish? What did you expect to happen? Which resources are involved?
     validations:
       required: true
   - type: textarea
     id: reproducible
     attributes:
-      label: Steps to reproduce
+      label: Example
       description: |
-        Provide a link to a live example or a clear set of steps to reproduce this bug.  
-        Include any relevant code used.
+        Provide a link or inline code along with a clear set of steps to reproduce this bug.
     validations:
       required: true
   - type: textarea
     id: versions
     attributes:
       label: Output of `pulumi about`
-      description: Provide the output of `pulumi about` from the root of your project.
+      description: Provide the output of `pulumi about` from the root of your project. We need to know which versions of runtimes & plugins you're using.
     validations:
       required: true
   - type: textarea
