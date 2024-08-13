@@ -1,7 +1,7 @@
 # Welcome to Pulumi
 
-![Pulumi](https://www.pulumi.com/logos/brand/logo-on-black.svg#gh-dark-mode-only)
-![Pulumi](https://www.pulumi.com/logos/brand/logo-on-white.svg#gh-light-mode-only)
+[![Pulumi Logo (Dark)](https://www.pulumi.com/logos/brand/logo-on-black.svg#gh-dark-mode-only)](https://pulumi.com#gh-dark-mode-only)
+[![Pulumi Logo (Light)](https://www.pulumi.com/logos/brand/logo-on-white.svg#gh-light-mode-only)](https://pulumi.com#gh-light-mode-only)
 
 [Main Repo](https://github.com/pulumi/pulumi) | [Docs](https://www.pulumi.com/docs/) | [Registry](https://www.pulumi.com/registry/) | [Intro Video](https://www.youtube.com/watch?v=Q8tw6YTD3ac)
 
