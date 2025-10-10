@@ -18,7 +18,7 @@ body:
     attributes:
       label: Example
       description: |
-        Provide a link or inline code along with a clear set of steps to reproduce this bug.
+        Provide a minimal, complete program that reproduces this behavior, along with any necessary additional steps.
     validations:
       required: true
   - type: textarea
