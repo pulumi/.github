@@ -5,7 +5,7 @@
 
 [Main Repo](https://github.com/pulumi/pulumi) | [Docs](https://www.pulumi.com/docs/) | [Registry](https://www.pulumi.com/registry/) | [Intro Video](https://www.youtube.com/watch?v=Q8tw6YTD3ac)
 
-<a href="https://www.pulumi.com/docs/get-started/?utm_campaign=pulumi-pulumi-github-repo&utm_source=github.com&utm_medium=get-started-button" title="Get Started">
+<a href="https://www.pulumi.com/docs/get-started/" title="Get Started">
     <img src="https://www.pulumi.com/images/get-started.svg?" align="right" width="120">
 </a>
 
